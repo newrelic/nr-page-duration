@@ -1,5 +1,7 @@
 ## Page Duration
 
+> Page duration - the time spent by a user on a page.
+
 This project will record page duration in [Insights][Insights] via the
 [Browser][Browser] agent.
 
