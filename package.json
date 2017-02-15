@@ -1,0 +1,27 @@
+{
+  "name": "nr-page-duration",
+  "version": "1.0.0",
+  "description": "Record page duration on your pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/newrelic/nr-page-duration.git"
+  },
+  "keywords": [
+    "nr",
+    "newrelic",
+    "page",
+    "duration",
+    "timing",
+    "time"
+  ],
+  "author": "Blaine Schmeisser",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/newrelic/nr-page-duration/issues"
+  },
+  "homepage": "https://github.com/newrelic/nr-page-duration#readme"
+}
