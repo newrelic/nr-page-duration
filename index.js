@@ -1,4 +1,4 @@
-if (window) {
+if (typeof window !== 'undefined' && window.newrelic) {
   var called = false
   var callback = function () {
     if (called) return
